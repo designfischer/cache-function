@@ -56,3 +56,13 @@ Cache keys are set whenever a book is created, replaced or updated.
 Cache keys are deleted whenever a book is deleted.
 
 Cache keys are loaded (if existing) whenever a request is made to the List Book Endpoint
+
+## .ENV CONFIG EXAMPLE
+
+LOCAL_APP_PORT = XXXX
+
+LOCAL_REDIS_PORT = XXXX
+
+LOCAL_REDIS_HOST = XXXX
+
+DB_URI = database_url_string

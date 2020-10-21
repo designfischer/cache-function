@@ -3,8 +3,7 @@
  
 ## STARTING THE PROJECT
 
-npm run dev (dev mode)
-npm start
+npm run dev (dev mode) or npm start
 
 ## FEATURES & ENDPOINTS
 

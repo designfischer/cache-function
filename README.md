@@ -1,5 +1,10 @@
 # API REST with Cache Function (Redis)
  API Rest NodeJS + Express + MongoDB + Redis (for caching responses)
+ 
+## STARTING THE PROJECT
+
+npm run dev (dev mode)
+npm start
 
 ## FEATURES & ENDPOINTS
 
